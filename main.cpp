@@ -9,7 +9,8 @@ using namespace std;
 int Paciente::totalPacientes = 0;
 
 int main(){
-    // Creando un paciente
+    // Creando un pacientes
+    cout<<endl<<endl;
     Paciente p("Gorgolito Perez", 58, 'M', 170, 66);
     // Imprimir datos del paciente
     cout << p.getDatos();
