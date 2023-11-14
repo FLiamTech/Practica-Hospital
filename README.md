@@ -1,7 +1,5 @@
 # Practica-Hospital
-Solucion al ejercicio del Hospital
-
-_Acá va un párrafo que describa lo que es el proyecto_
+Aplicación en C++ pára llevar la cuenta de los pacientes en un _HOSPITAL_
 
 ## Hospital 🚀
 
