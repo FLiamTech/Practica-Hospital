@@ -1,26 +1,27 @@
-gi# Practica-Hospital
+# Practica-Hospital
 Solucion al ejercicio del Hospital
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## Comenzando 🚀
+## Hospital 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
+### Aplicaticiones fundamentales para la elaboración del programa 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+Compitador C++
+QT Creator
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Link de las aplicaciones necesarias_
 
 _Dí cómo será ese paso_
 
