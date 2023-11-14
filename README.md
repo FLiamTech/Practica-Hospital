@@ -1,4 +1,4 @@
-# Practica-Hospital
+gi# Practica-Hospital
 Solucion al ejercicio del Hospital
 
 _Acá va un párrafo que describa lo que es el proyecto_
